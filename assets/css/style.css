@@ -1,0 +1,13 @@
+
+
+#mainheader,
+#timeremaining,
+#question
+ {
+    /* padding: 0ch; */
+    text-align: right;
+    padding-right: 200px;
+}
+#questionpart {
+    text-align: center;
+}
